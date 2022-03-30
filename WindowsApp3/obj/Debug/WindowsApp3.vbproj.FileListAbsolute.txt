@@ -1,0 +1,28 @@
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\tahad\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.AssemblyReference.cache
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\DOĞAN ZEKİ MURATOĞLU\Desktop\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
